@@ -1,0 +1,17 @@
+{
+"companyName": "Gdut&Vit",
+"productName": "Crazy Bolus",
+"productVersion": "0.1",
+"dataUrl": "3218009176 Sarah 18animation4.data.unityweb",
+"wasmCodeUrl": "3218009176 Sarah 18animation4.wasm.code.unityweb",
+"wasmFrameworkUrl": "3218009176 Sarah 18animation4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "3218009176 Sarah 18animation4.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
